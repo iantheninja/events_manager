@@ -13,6 +13,7 @@ gem 'coffee-rails', '~> 4.2'
 gem 'turbolinks', '~> 5'
 gem 'jbuilder', '~> 2.5'
 gem 'responders'
+gem 'webpacker', '>= 4.0.x'
 
 gem 'bootsnap', '>= 1.1.0', require: false
 
